@@ -1,4 +1,4 @@
-  <div style="display:flex">
+  <div style="display:flex margin:0">
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGViOHVmdzZkZWFyMmp5Y3UzdmhubW1zNXNkNGV4azB1cTRmbDk2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp">
   </div>
 
